@@ -53,8 +53,8 @@ We break down the key features, pros and cons, and real-world use cases of **Con
 
 ## **UpCloud Overview**
 
-<a href="https://afftrend.com/upcloud ">
-  <img src="https://drive.google.com/uc?export=view&id=https://drive.google.com/drive/folders/1FwzC5zTKlBgCb8KlsExzLB-CE_2thePI"  alt="Upcloud Homepage">
+<a href="https://afftrend.com/upcloud">
+  <img src="https://drive.google.com/uc?export=view&id=1rCUfwRtmLNdyBwavgAXOT74xkf8l5p8Q"  alt="Upcloud Homepage">
 </a>
 
 **1. Hosting Types Offered**
