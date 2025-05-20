@@ -53,7 +53,9 @@ We break down the key features, pros and cons, and real-world use cases of **Con
 
 ## **UpCloud Overview**
 
-
+<a href="https://afftrend.com/upcloud ">
+  <img src="https://drive.google.com/uc?export=view&id=https://drive.google.com/drive/folders/1FwzC5zTKlBgCb8KlsExzLB-CE_2thePI"  alt="Upcloud Homepage">
+</a>
 
 **1. Hosting Types Offered**
 
@@ -100,31 +102,42 @@ In contrast, **UpCloud’s enterprise-grade performance, MaxIOPS storage, and sc
 
 1. **Dedicated Servers**
 
+<a href="https://afftrend.com/contabovps">
+  <img src="https://drive.google.com/uc?export=view&id=1Kar57-pVjalVONLVcJXqMU8X_TM9CZo_"  alt="Contabo VPS Dedicated Servers">
+</a>
 
 Bare metal servers offering raw computing power, complete resource allocation, and highest performance. Perfect for high-traffic websites, data-heavy applications, or virtualization. Users benefit from full control, no shared resources, and enhanced security for mission-critical workloads.
 
-1. **Cloud VDS**
+2. **Cloud VDS**
 
+<a href="https://afftrend.com/contabovps">
+  <img src="https://drive.google.com/uc?export=view&id=1EyLNNi2MNxcE9nllRJxvNVfO5fR8A6zt"  alt="Contabo Cloud VDS ">
+</a>
 
 Virtual Dedicated Servers combine cloud flexibility with dedicated performance. Provides isolated environments for secure operations and predictable performance. Ideal for businesses needing root access and consistent computing power without managing full hardware infrastructure. Starts affordably while scaling easily with business needs.
 
-1. **Server Deals**
+3. **Server Deals**
 
-
+<a href="https://afftrend.com/contabovps">
+  <img src="https://drive.google.com/uc?export=view&id=1nwhx-p1bKEDp1bHbmozJHRcHro1aMpXJ"  alt="Contabo VPS Server Deals ">
+</a>
 
 Specially priced dedicated server offers to maximize cost-efficiency. These deals often include high-spec configurations at discounted rates, suitable for budget-conscious startups or growing projects needing reliable infrastructure. Users can capitalize on powerful hardware without compromising on quality or support
 
-1. **cPanel**
+4. **cPanel**
 
 
 
 Industry-standard hosting control panel that enables effortless website and server management. Includes tools for domain setup, file management, security, and automated backups. Perfect for web hosting businesses and tech-savvy users who prefer a mature, stable environment with extensive support documentation and extensions.
 
-1. **Domains**
+5. **Domains**
+
+
+
 
 Domain registration and management directly integrated into the server environment. Users can buy, renew, and connect domains with ease. It streamlines the process of launching websites by eliminating the need for third-party domain services, making it easier to manage everything under one roof.
 
-1. **GPU Servers**
+6. **GPU Servers**
 
 
 
@@ -252,11 +265,8 @@ All Developer Plans include:
 
 *Note: There's a purchase limit of 2 servers per customer for the €3/month plan.*
 
----
-
 ## General Purpose Plans – Starting at €7/month
 
-![Pricing-UpCloud-05-06-2025_09_08_PM (2).webp](attachment:2e5e047e-dbeb-44ac-a1b4-ea251cb929c2:Pricing-UpCloud-05-06-2025_09_08_PM_(2).webp)
 
 Designed for balanced workloads, these plans offer a mix of performance and affordability:
 
@@ -280,9 +290,7 @@ Features include:
 - 1 Gbps network connectivity
 - IPv4 address
 - 24-hour backup tier included
-- 99.999% SLA([UpCloud](https://upcloud.com/developer-plans?utm_source=chatgpt.com), [UpCloud](https://upcloud.com/docs/changelog/2024-09-11-developer-cloud-server-plans/?utm_source=chatgpt.com))
-
----
+- 99.999% SLA
 
 ## High CPU & High Memory Plans
 
@@ -290,14 +298,14 @@ For compute-intensive or memory-heavy applications, UpCloud offers specialized p
 
 ### High CPU Plans:
 
-![Pricing-UpCloud-05-06-2025_09_08_PM (1).webp](attachment:bc538db1-fad3-4c29-8b5e-a5281fe47afe:Pricing-UpCloud-05-06-2025_09_08_PM_(1).webp)
+
 
 - Optimized for CPU-bound tasks.
 - Includes MaxIOPS storage and high CPU-to-memory ratio.
 
 ### High Memory Plans:
 
-![Pricing-UpCloud-05-06-2025_09_08_PM.webp](attachment:619ff1c3-513a-4f7b-989e-441233361cfe:Pricing-UpCloud-05-06-2025_09_08_PM.webp)
+
 
 - Tailored for memory-intensive applications.
 - Provides large RAM allocations with balanced CPU resources.
@@ -306,7 +314,6 @@ For compute-intensive or memory-heavy applications, UpCloud offers specialized p
 
 ## Cloud Native Plans
 
-![Pricing-UpCloud-05-06-2025_09_07_PM.webp](attachment:273d7180-d7c4-485f-a764-4e6bd7d8b5df:Pricing-UpCloud-05-06-2025_09_07_PM.webp)
 
 Designed for containerized applications and modern cloud-native workloads:
 
@@ -315,8 +322,6 @@ Designed for containerized applications and modern cloud-native workloads:
 - Ideal for Kubernetes, Docker Swarm, and similar orchestrators.
 
 *Storage and IP addresses are billed continuously due to ongoing allocation.*
-
----
 
 ## Additional Services
 
@@ -338,8 +343,6 @@ Designed for containerized applications and modern cloud-native workloads:
     - NAT and VPN Gateways starting at €15/month.
     - Software Defined Networking, Floating IPs, and more.
 
----
-
 UpCloud's pricing structure is designed to cater to a wide range of needs, from individual developers to large enterprises. With transparent pricing, high-performance infrastructure, and a variety of plans, users can select the configuration that best fits their requirements and budget.
 
 ## **How to Use**
@@ -352,7 +355,9 @@ UpCloud's pricing structure is designed to cater to a wide range of needs, from 
 - Register with your personal or business details.
 - Add payment and verify identity (may require ID for first-time users).
 
-
+<a href="https://afftrend.com/contabovps">
+  <img src="https://drive.google.com/uc?export=view&id=1y3o7ltukFYPpRP_S6aH5TamgK-MeaNGC"  alt="Contabo VPS Signup Page">
+</a>
 
 ### 2. **Choose and Configure Plan**
 
@@ -375,12 +380,12 @@ UpCloud's pricing structure is designed to cater to a wide range of needs, from 
 
 ### 1. **Sign Up & Verify**
 
-- Go to upcloud.com, click **“Sign Up”**.
+- Go to upcloud.com, click **“Start Free Trial”**.
 - Enter your email and billing details.
 - Verify your account via email and add a payment method.
 
-<a href="https://afftrend.com/upcloud ">
-  <img src="https://drive.google.com/uc?export=view&id=1y3o7ltukFYPpRP_S6aH5TamgK-MeaNGC"  alt="Upcloud Signup Page">
+<a href="https://afftrend.com/upcloud">
+  <img src="https://drive.google.com/uc?export=view&id=1PUK6GW6oq4CcgNpCcozYaTOsXk9SCMcn"  alt="Upcloud Signup Page">
 </a>
 
 ### 2. **Deploy a Server**
