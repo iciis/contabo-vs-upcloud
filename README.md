@@ -159,6 +159,10 @@ Specially designed servers with dedicated GPUs for AI, machine learning, and hig
 
 **1. MaxIOPS Storage**
 
+<a href="https://afftrend.com/upcloud">
+  <img src="https://drive.google.com/uc?export=view&id=1uH5SJQzsVOwQ1vjTVGA-S4i5XJFZEeVO"  alt="Upcloud MaxIOPS Storage">
+</a>
+
 UpCloud’s proprietary MaxIOPS storage outperforms traditional SSDs, offering ultra-fast read/write speeds. It’s ideal for database-heavy apps or high-traffic websites where speed and responsiveness are critical. **This feature is what sets UpCloud apart in performance-focused hosting.**
 
 **2. European Cloud Infrastructure**
@@ -178,6 +182,10 @@ UpCloud ensures data compliance with strict European regulations (like GDPR) by 
 Their customizable developer-friendly plans allow for flexible scaling, DevOps tools integration, and automation. **Built with coders in mind**, these plans help reduce manual server maintenance and speed up application development workflows
 
 **4. eCommerce Optimization**
+
+<a href="https://afftrend.com/upcloud">
+  <img src="https://drive.google.com/uc?export=view&id=1249-d3s5PTR7iwhY-94_sBRV9xnnUkDW"  alt="Upcloud eCommerce Optimization">
+</a>
 
 Optimized for performance and security, UpCloud supports eCommerce platforms like WooCommerce or Magento. **Fast page load times and SSL support boost user experience**, which is crucial for conversions and SEO rankings.
 
@@ -267,13 +275,13 @@ Contabo continues to offer some of the most competitive VPS hosting plans in the
 
 ### UpCloud Pricing 
 
-<a href="https://afftrend.com/upcloud">
-  <img src="https://drive.google.com/uc?export=view&id=14gcqfTjLQ7jh4djjWfnv-9jaCHTAg0h8" width="800px" alt="">
-</a>
-
 UpCloud offers a diverse range of cloud hosting solutions tailored to developers, startups, and enterprises. Their pricing model is transparent, flexible, and designed to cater to various workloads. Below is an in-depth look at their offerings:
 
 **1. Developer Plans – Starting at €3/month**
+
+<a href="https://afftrend.com/upcloud">
+  <img src="https://drive.google.com/uc?export=view&id=eCommerce Optimization"  alt="Upcloud pricing">
+</a>
 
 Ideal for testing, development, and small-scale projects, UpCloud's Developer Plans provide cost-effective solutions:
 
@@ -294,6 +302,10 @@ All Developer Plans include:
 - 99.99% SLA
 
 **2. General Purpose Plans – Starting at €7/month**
+
+<a href="https://afftrend.com/upcloud">
+  <img src="https://drive.google.com/uc?export=view&id=1Aww8DgsEjFh-GzI23tSH_02qeTsn-cRZ"  alt="Upcloud General Pricing">
+</a>
 
 Designed for balanced workloads, these plans offer a mix of performance and affordability:
 
@@ -321,6 +333,10 @@ Features include:
 
 **3. High CPU & High Memory Plans**
 
+<a href="https://afftrend.com/upcloud">
+  <img src="https://drive.google.com/uc?export=view&id=1C8e-yl3IIscYJei3lVF_5p25m5CqjETU"  alt="Upcloud High Memory Plans">
+</a>
+
 For compute-intensive or memory-heavy applications, UpCloud offers specialized plans:
 
 **High CPU Plans:**
@@ -334,6 +350,10 @@ For compute-intensive or memory-heavy applications, UpCloud offers specialized p
 - Provides large RAM allocations with balanced CPU resources.
 
 **4. Cloud Native Plans**
+
+<a href="https://afftrend.com/upcloud">
+  <img src="https://drive.google.com/uc?export=view&id=1bJmDrsEc04A03OqaO4S93eDqYgQplU7s"  alt="Upcloud Cloud Native Plan">
+</a>
 
 Designed for containerized applications and modern cloud-native workloads:
 
