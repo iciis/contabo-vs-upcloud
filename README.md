@@ -128,13 +128,26 @@ Specially priced dedicated server offers to maximize cost-efficiency. These deal
 
 **4. cPanel**
 
+<a href="https://afftrend.com/contabovps">
+  <img src="https://drive.google.com/uc?export=view&id=15QfpQC1sBZQK-v-OKl3dPqgPwGKfYQnW"  alt="Contabo Cpanel">
+</a>
+
 Industry-standard hosting control panel that enables effortless website and server management. Includes tools for domain setup, file management, security, and automated backups. Perfect for web hosting businesses and tech-savvy users who prefer a mature, stable environment with extensive support documentation and extensions.
 
 **5. Domains**
 
+<a href="https://afftrend.com/contabovps">
+  <img src="https://drive.google.com/uc?export=view&id=10XHCdGDmBP7GQ2isLV5mfilQBhUATkn8"  alt="Contabo VPS Domains">
+</a>
+
 Domain registration and management directly integrated into the server environment. Users can buy, renew, and connect domains with ease. It streamlines the process of launching websites by eliminating the need for third-party domain services, making it easier to manage everything under one roof.
 
 **6. GPU Servers**
+
+<a href="https://afftrend.com/contabovps">
+  <img src="https://drive.google.com/uc?export=view&id=1Swq88mPpX3lP6Wg4GmTxDwbsLhg_SpBU"  alt="Contabo GPU Servers">
+</a>
+
 
 Specially designed servers with dedicated GPUs for AI, machine learning, and high-performance computing workloads. Offers exceptional parallel processing power, ideal for rendering, simulations, or deep learning. Provides both cost-efficiency and power for users who need more than traditional CPU-based servers.
 
