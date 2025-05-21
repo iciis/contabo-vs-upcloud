@@ -280,7 +280,7 @@ UpCloud offers a diverse range of cloud hosting solutions tailored to developers
 **1. Developer Plans – Starting at €3/month**
 
 <a href="https://afftrend.com/upcloud">
-  <img src="https://drive.google.com/uc?export=view&id=eCommerce Optimization"  alt="Upcloud pricing">
+  <img src="https://drive.google.com/uc?export=view&id=1dDdK06Zkp6ZdUVzRgFSIvTP1zm7O07R-"  alt="Upcloud Developer Plans">
 </a>
 
 Ideal for testing, development, and small-scale projects, UpCloud's Developer Plans provide cost-effective solutions:
