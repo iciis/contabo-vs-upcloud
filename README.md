@@ -10,7 +10,7 @@ We break down the key features, pros and cons, and real-world use cases of **Con
 
 ## **Product Overview**
 
-**Contabo Overview**
+### **Contabo Overview**
 
 <a href="https://afftrend.com/contabo">
   <img src="https://drive.google.com/uc?export=view&id=1nwzQLJUsiyazWu1jXat4j8mS7ng913ro"  alt="Contabo Vps Homepage">
@@ -51,7 +51,7 @@ Contabo is known for **transparent pricing**, **no hidden fees**, and **customiz
 
 Contabo offers one of the most affordable entry points for cloud infrastructure in 2025 without sacrificing hardware specs—ideal for developers and cost-conscious users who prefer full control.
 
-## UpCloud Overview
+### UpCloud Overview
 
 <a href="https://afftrend.com/upcloud">
   <img src="https://drive.google.com/uc?export=view&id=1rCUfwRtmLNdyBwavgAXOT74xkf8l5p8Q"  alt="Upcloud Homepage">
@@ -92,7 +92,7 @@ In contrast, **UpCloud’s enterprise-grade performance, MaxIOPS storage, and sc
 
 ## **Contabo Vs Upcloud Features**
 
-**Contabo Key Features**
+### **Contabo Key Features**
 
 **1. Dedicated Servers**
 
@@ -130,7 +130,7 @@ Domain registration and management directly integrated into the server environme
 
 Specially designed servers with dedicated GPUs for AI, machine learning, and high-performance computing workloads. Offers exceptional parallel processing power, ideal for rendering, simulations, or deep learning. Provides both cost-efficiency and power for users who need more than traditional CPU-based servers.
 
-## **UpCloud Key Features**
+### **UpCloud Key Features**
 
 **1. MaxIOPS Storage**
 
@@ -174,7 +174,7 @@ However, if **performance, reliability, and cutting-edge storage** are what you 
 
 ## Contabo Vs Upcloud Pricing
 
-**Contabo Cloud VPS Plans & Pricing**
+### **Contabo Cloud VPS Plans & Pricing**
 
 <a href="https://afftrend.com/contabo">
   <img src="https://drive.google.com/uc?export=view&id=1oJcHmt00OrcniRC4Q0kk2BKvMbMOkUn0" width="800px" alt="">
@@ -232,7 +232,7 @@ Contabo continues to offer some of the most competitive VPS hosting plans in the
 - **Traffic:** 32 TB/month (Unlimited Incoming)
 - **Price:** €41.65/month
 
-**UpCloud Pricing Breakdown: Plans, Features & Value**
+### UpCloud Pricing 
 
 <a href="https://afftrend.com/upcloud">
   <img src="https://drive.google.com/uc?export=view&id=14gcqfTjLQ7jh4djjWfnv-9jaCHTAg0h8" width="800px" alt="">
@@ -240,7 +240,7 @@ Contabo continues to offer some of the most competitive VPS hosting plans in the
 
 UpCloud offers a diverse range of cloud hosting solutions tailored to developers, startups, and enterprises. Their pricing model is transparent, flexible, and designed to cater to various workloads. Below is an in-depth look at their offerings:
 
-**Developer Plans – Starting at €3/month**
+**1. Developer Plans – Starting at €3/month**
 
 Ideal for testing, development, and small-scale projects, UpCloud's Developer Plans provide cost-effective solutions:
 
@@ -260,8 +260,7 @@ All Developer Plans include:
 - Zero-cost data transfer (Fair Transfer Policy applies)
 - 99.99% SLA
 
-**General Purpose Plans – Starting at €7/month**
-
+**2. General Purpose Plans – Starting at €7/month**
 
 Designed for balanced workloads, these plans offer a mix of performance and affordability:
 
@@ -287,21 +286,21 @@ Features include:
 - 24-hour backup tier included
 - 99.999% SLA
 
-**High CPU & High Memory Plans**
+**3. High CPU & High Memory Plans**
 
 For compute-intensive or memory-heavy applications, UpCloud offers specialized plans:
 
-**1. High CPU Plans:**
+* **High CPU Plans:**
 
 - Optimized for CPU-bound tasks.
 - Includes MaxIOPS storage and high CPU-to-memory ratio.
 
-**2. High Memory Plans:**
+* **High Memory Plans:**
 
 - Tailored for memory-intensive applications.
 - Provides large RAM allocations with balanced CPU resources.
 
-**Cloud Native Plans**
+**4. Cloud Native Plans**
 
 Designed for containerized applications and modern cloud-native workloads:
 
@@ -311,7 +310,7 @@ Designed for containerized applications and modern cloud-native workloads:
 
 *Storage and IP addresses are billed continuously due to ongoing allocation.*
 
-## Additional Services
+* **5. Additional Services**
 
 - **Block Storage**:
     - MaxIOPS: €0.22/GB/month
@@ -335,7 +334,7 @@ UpCloud's pricing structure is designed to cater to a wide range of needs, from 
 
 ## **How to Use**
 
-**Contabo Usage Guide**
+### **Contabo Usage Guide**
 
 **1. Create an Account**
 
@@ -364,7 +363,7 @@ UpCloud's pricing structure is designed to cater to a wide range of needs, from 
 - Host websites, game servers, testing environments, or databases.
 - Good for students, small businesses, and affordable sandboxing.
 
-**Upcloud Usage Guide**
+### **Upcloud Usage Guide**
 
 **1. Sign Up & Verify**
 
