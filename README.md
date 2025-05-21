@@ -421,7 +421,7 @@ UpCloud's pricing structure is designed to cater to a wide range of needs, from 
 - Easily scale resources or clone servers when needed.
 
 <a href="https://afftrend.com/upcloud"> 
-<img src="https://drive.google.com/uc?export=view&id=1FoP9E8ObxUoX_OFhvRvBbO3lZ2orFR34" alt="Try Now"> 
+<img src="https://drive.google.com/uc?export=view&id=1l-ouegktdJAOSFXBIiBNQLOVsuUwUcqb" alt="See How it Works"> 
 </a>
 
 **Pro Tip:**
