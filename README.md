@@ -164,7 +164,7 @@ UpCloud’s proprietary MaxIOPS storage outperforms traditional SSDs, offering u
 **2. European Cloud Infrastructure**
 
 <a href="https://afftrend.com/upcloud">
-  <img src="https://drive.google.com/uc?export=view&id=17CIbuzDDjGxP0RICOq2BD4xkWR_e99-N" width="800px" alt="">
+  <img src="https://drive.google.com/uc?export=view&id=17CIbuzDDjGxP0RICOq2BD4xkWR_e99-N" width="800px" alt="Upcloud European Cloud Infrastructure">
 </a>
 
 UpCloud ensures data compliance with strict European regulations (like GDPR) by offering hosting entirely within Europe. **This benefits businesses prioritizing privacy, legal safety, and regional performance.** It's especially helpful for EU-based digital agencies and eCommerce sites.
@@ -172,7 +172,7 @@ UpCloud ensures data compliance with strict European regulations (like GDPR) by 
 **3. Developer Plans**
 
 <a href="https://afftrend.com/upcloud">
-  <img src="https://drive.google.com/uc?export=view&id=1dPQOwY0ZHE2vyfHi7zkK_dSSCl5ipoR9" width="800px" alt="">
+  <img src="https://drive.google.com/uc?export=view&id=1dPQOwY0ZHE2vyfHi7zkK_dSSCl5ipoR9" width="800px" alt="Upcloud Developer Plans">
 </a>
 
 Their customizable developer-friendly plans allow for flexible scaling, DevOps tools integration, and automation. **Built with coders in mind**, these plans help reduce manual server maintenance and speed up application development workflows
@@ -188,7 +188,7 @@ Though premium in pricing, UpCloud lets users fine-tune resource usage, scale on
 **6. Global Data Center Network**
 
 <a href="https://afftrend.com/upcloud">
-  <img src="https://drive.google.com/uc?export=view&id=1C789HoKdz71NH1Dy_Pk4H-cCnQuaI0y0" width="800px" alt="">
+  <img src="https://drive.google.com/uc?export=view&id=1C789HoKdz71NH1Dy_Pk4H-cCnQuaI0y0" width="800px" alt="Upcloud Global Data Center Network">
 </a>
 
 UpCloud offers data centers in multiple regions including Germany, Spain, US, and Singapore. **This enables low-latency access globally**, improving performance and reliability for distributed user bases or international customers.
