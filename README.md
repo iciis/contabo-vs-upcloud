@@ -290,12 +290,12 @@ Features include:
 
 For compute-intensive or memory-heavy applications, UpCloud offers specialized plans:
 
-* **High CPU Plans:**
+**High CPU Plans:**
 
 - Optimized for CPU-bound tasks.
 - Includes MaxIOPS storage and high CPU-to-memory ratio.
 
-* **High Memory Plans:**
+**High Memory Plans:**
 
 - Tailored for memory-intensive applications.
 - Provides large RAM allocations with balanced CPU resources.
